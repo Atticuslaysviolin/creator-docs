@@ -35,7 +35,7 @@ For more tips, please see <a href = "https://en.help.roblox.com/hc/en-us/article
 
 ## Three Lessons, Three Prizes
 
-To build the driftspeeder and add it to the race, follow along with each of the three step-by-step tutorials.
+To build the driftspeeder and add it to the race, follow along with each of the three step-by-step .
 <GridContainer numColumns="3">
 
   <figure>
